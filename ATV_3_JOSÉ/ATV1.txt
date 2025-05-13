@@ -1,0 +1,95 @@
+1. Quais serviços ambientais podem ser prestados em um Programa de PSA no Estado de Pernambuco?
+
+Os serviços ambientais prestados no âmbito do Programa Estadual de Pagamento por Serviços Ambientais (PSA) de Pernambuco incluem:
+
+Serviços de Provisão: Como a oferta de água, alimentos, madeira e fibras, provenientes do manejo sustentável dos ecossistemas.
+
+Serviços de Suporte: Como a manutenção da fertilidade do solo, a ciclagem de nutrientes, a polinização de plantas e o controle natural de pragas.
+
+Serviços de Regulação: Como o sequestro de carbono, a purificação do ar, a regulação do ciclo hídrico, e a redução de desastres naturais como enchentes e secas.
+
+Serviços Culturais: Benefícios estéticos e recreativos, como a preservação de paisagens naturais e o turismo ecológico.
+
+Esses serviços podem ser oferecidos por meio de práticas como o plantio de árvores, a restauração de áreas degradadas, a conservação de mananciais e a proteção da biodiversidade.
+
+2. Quais serão as áreas prioritárias a serem atendidas no PSA proposto para o Estado de Pernambuco?
+
+As áreas prioritárias para o PSA em Pernambuco incluem:
+
+Áreas de recarga de aquíferos e mananciais de abastecimento público, essenciais para garantir a segurança hídrica do estado.
+
+Áreas de preservação permanente e reservas legais, como parte da conservação do patrimônio ambiental.
+
+Áreas suscetíveis à desertificação, principalmente no semiárido de Pernambuco, que demandam práticas de recuperação ecológica.
+
+Unidades de Conservação, que necessitam de conservação e restauração para garantir a biodiversidade.
+
+Corredores ecológicos e zonas de amortecimento que são essenciais para a conectividade dos ecossistemas.
+
+Essas áreas são selecionadas por sua importância para a sustentabilidade ambiental, social e econômica do estado, considerando os biomas da Caatinga e Mata Atlântica.
+
+3. Quem pode receber pelo serviço ambiental do PSA?
+
+Podem receber pelo serviço ambiental do PSA em Pernambuco:
+
+Proprietários rurais, incluindo agricultores familiares, povos indígenas e comunidades tradicionais, que prestam serviços ambientais em suas propriedades.
+
+Associações e cooperativas que desenvolvem atividades de conservação em áreas coletivas.
+
+Organizações não governamentais (ONGs) e outros agentes que gerenciam áreas para a prestação de serviços ambientais.
+
+Esses beneficiários devem atender aos critérios de elegibilidade definidos pela Lei Estadual nº 15.809/2016 e a Resolução CONSEMA nº 01/2025.
+
+4. Quem paga pelo serviço ambiental do PSA?
+
+Os pagadores dos serviços ambientais no programa de PSA podem ser:
+
+Poder Público Estadual ou Municipal: O Fundo Estadual de Pagamento por Serviços Ambientais (FEPSA) é uma das fontes de pagamento, com recursos orçamentários destinados a projetos de PSA.
+
+Empresas Privadas: Que buscam compensar impactos ambientais por meio do financiamento de projetos de PSA, como parte de suas ações de responsabilidade socioambiental.
+
+Organizações da Sociedade Civil e Agentes Privados: Estes podem contribuir por meio de doações, convênios ou contratos com o governo ou outras entidades.
+
+5. Que parâmetro geralmente é medido em um PSA?
+
+Os parâmetros frequentemente medidos em um PSA incluem:
+
+Área de intervenção: A extensão da área que está sendo restaurada ou preservada.
+
+Quantificação de mudas plantadas ou da vegetação nativa preservada.
+
+Qualidade da água: Para projetos relacionados à conservação de recursos hídricos.
+
+Carbono sequestrado: Em projetos de restauração florestal e manejo de terras.
+
+Biodiversidade: Indicadores de conservação da fauna e flora nas áreas de intervenção.
+
+Esses parâmetros ajudam a monitorar o impacto ambiental das ações e a efetividade dos serviços prestados.
+
+6. Quais as formas de valoração em um PSA?
+
+A valoração dos serviços ambientais prestados pode ser feita de várias formas, dependendo do tipo de serviço oferecido:
+
+Valoração econômica: Atribuição de um valor monetário ao serviço prestado, como o pagamento por sequestro de carbono, por exemplo.
+
+Valoração ecológica: Consideração dos benefícios ecológicos de longo prazo, como a preservação da biodiversidade e a melhoria dos ciclos naturais.
+
+Valoração social: Avaliação do impacto do projeto nas comunidades locais, incluindo a geração de emprego, melhoria da qualidade de vida e fortalecimento da identidade cultural.
+
+Valoração cultural e estética: Relacionada à preservação de paisagens naturais e a promoção do ecoturismo.
+
+A valoração é importante para calcular o montante de pagamento e justificar os benefícios das ações para a sociedade.
+
+7. Como a solução proposta pode colaborar com o programa de pagamento por serviços ambientais em Pernambuco?
+
+A solução proposta pode colaborar com o programa de PSA em Pernambuco ao:
+
+Facilitar o monitoramento das áreas de intervenção: Utilizando tecnologias de geoprocessamento e sensoriamento remoto para mapear e monitorar as áreas contempladas pelos projetos de PSA.
+
+Apoiar a gestão de dados: Criando sistemas para integrar informações sobre os serviços prestados, os pagamentos realizados e os resultados alcançados.
+
+Garantir transparência e controle social: Oferecendo plataformas para que a sociedade acompanhe a execução dos projetos, as transferências de recursos e os impactos ambientais.
+
+Propor mecanismos de verificação e certificação: Para garantir a qualidade dos serviços prestados, permitindo a validação dos dados e o cumprimento das normas ambientais.
+
+Apoiar na capacitação e assistência técnica: Oferecendo treinamento para provedores de serviços ambientais, como agricultores e comunidades, sobre as melhores práticas de conservação e restauração.
